@@ -2,20 +2,20 @@ Circuit: * C:\Campus\My ACA\Semester 3\Laboratory Practice - II\EN2090_Project_L
 
 .OP point found by inspection.
 
-Date: Thu Mar 17 07:18:41 2022
-Total elapsed time: 0.086 seconds.
+Date: Thu Mar 17 08:08:09 2022
+Total elapsed time: 0.211 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2267
-traniter = 2267
-tranpoints = 1110
-accept = 1097
-rejected = 13
+totiter = 2240
+traniter = 2240
+tranpoints = 1103
+accept = 1093
+rejected = 10
 matrix size = 22
 fillins = 22
 solver = Normal
-Matrix Compiler1:     186 opcodes  0.4/0.2/[0.1]
+Matrix Compiler1:     186 opcodes  0.6/0.3/[0.3]
 Matrix Compiler2: 2.39 KB object code size  0.2/0.2/[0.1]
 
