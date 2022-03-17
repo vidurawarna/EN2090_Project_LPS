@@ -1,6 +1,0 @@
-.save V(Load)
-.step param X 0.5 1 0.1
-.measure VVLoadAvg avg V(Load)
-.option plotwinsize=0 numdgt=15
-
-.step param X 2 2.5 0.1
