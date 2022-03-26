@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : 1N4733G_R0G.LibPkg
+
+Section : C:\Users\User\Downloads\Documents\ACA\Sem 3\EN2090 Laboratory Practice II\PCB\Libraries\1N4733G_R0G.lia
+    Section : PCB Library - 1N4733G_R0G.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1N4733G_R0G On Line 145
+            Warning - 1 : Skipping Token attachedSymbol On Line 193
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*DIOAD1060W70L435D230][Primary] associated with PCAD Component [1N4733G_R0G] has been renamed to PCB FootPrint [*DIOAD1060W70L435D230_1N4733G_R0G(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1N4733G_R0G.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 130
+        EndSection
+
+        Section : Generating SCH Library - 1N4733G_R0G.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*DIOAD1060W70L435D230][Primary] associated with PCAD Component [1N4733G_R0G] has been renamed to PCB FootPrint [*DIOAD1060W70L435D230_1N4733G_R0G(Primary)].
+        EndSection
+    EndSection
+EndSection
