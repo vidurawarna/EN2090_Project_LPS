@@ -1,0 +1,2 @@
+>> We implemented the circuit on a dot board to test high currents.
+>> 1-1ohm means 1.1ohms in the video names
