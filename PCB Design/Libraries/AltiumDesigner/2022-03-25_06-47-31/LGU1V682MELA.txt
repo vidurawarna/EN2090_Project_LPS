@@ -1,0 +1,69 @@
+# Created by Ultra Librarian Gold 8.3.307 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CAP_A35_NCH")
+Pad (Name "1") (Location 0, 0) (HoleSize 83) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 103, 103) (Shape Rounded) (Layer Top)
+PadShape (Size 103, 103) (Shape Rounded) (Layer Bottom)
+PadShape (Size 103, 103) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "2") (Location 393.70080566, 0) (HoleSize 83) (Surface False) (Rotation 180) (ExpandMask 0)
+PadShape (Size 103, 103) (Shape Rounded) (Layer Top)
+PadShape (Size 103, 103) (Shape Rounded) (Layer Bottom)
+PadShape (Size 103, 103) (Shape Rounded) (Layer MidLayer)
+EndPad
+Line (Width 6) (Start -9.85549927, 502) (End 403.55630493, 502) (Layer Mechanical15) 
+Line (Width 6) (Start 403.55630493, 502) (End 698.85040283, 206.7059021) (Layer Mechanical15) 
+Line (Width 6) (Start 698.85040283, 206.7059021) (End 698.85040283, -206.7059021) (Layer Mechanical15) 
+Line (Width 6) (Start 698.85040283, -206.7059021) (End 403.55630493, -502) (Layer Mechanical15) 
+Line (Width 6) (Start 403.55630493, -502) (End -9.85549927, -502) (Layer Mechanical15) 
+Line (Width 6) (Start -9.85549927, -502) (End -305.14959717, -206.7059021) (Layer Mechanical15) 
+Line (Width 6) (Start -305.14959717, -206.7059021) (End -305.14959717, 206.7059021) (Layer Mechanical15) 
+Line (Width 6) (Start -305.14959717, 206.7059021) (End -9.85549927, 502) (Layer Mechanical15) 
+Polygon (PointCount 8) (Layer Mechanical15) 
+Point (-9.85549927, 502)
+Point (403.55630493, 502)
+Point (698.85040283, 206.7059021)
+Point (698.85040283, -206.7059021)
+Point (403.55630493, -502)
+Point (-9.85549927, -502)
+Point (-305.14959717, -206.7059021)
+Point (-305.14959717, 206.7059021)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (-420.14959717, -617)
+Point (-420.14959717, 617)
+Point (813.85040283, 617)
+Point (813.85040283, -617)
+EndPolygon
+Line (Width 6) (Start -355.14959717, 0) (End -305.14959717, 0) (Layer TopOverlay) 
+Line (Width 6) (Start -330.14959717, 25) (End -330.14959717, -25) (Layer TopOverlay) 
+Arc (Width 6) (Radius 497) (Location 196.85040283, 0) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -355.14959717, 0) (End -305.14959717, 0) (Layer Mechanical13) 
+Line (Width 1) (Start -330.14959717, 25) (End -330.14959717, -25) (Layer Mechanical13) 
+Arc (Width 0) (Radius 492) (Location 196.85040283, 0) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Step (Name CAP_A35_NCH.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "LGU1V682MELA") (PartCount 1) (DesPrefix "C?")
+Pin (Location 200, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "2") (Name Hidden "2") (PinSwap 1) (PartSwap 1) (PinSeq 2) (Part 1)
+Pin (Location 100, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "1") (Name Hidden "1") (PinSwap 1) (PartSwap 1) (PinSeq 1) (Part 1)
+Line (Width 8) (Start 137, -75) (End 137, 75) (Part 1)
+Line (Width 8) (Start 162, -75) (End 162, 75) (Part 1)
+Line (Width 8) (Start 162, 0) (End 200, 0) (Part 1)
+Line (Width 8) (Start 100, 0) (End 137, 0) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2022 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Nichicon") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "LGU1V682MELA") (Part 1)
+Parameter (Name "RefDes") (Location 150, 150) (Height 137) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 150, -300) (Height 137) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "LGU1V682MELA") (Part 1)
+Footprint (Name "CAP_A35_NCH")
+EndComponent
+EndComponents

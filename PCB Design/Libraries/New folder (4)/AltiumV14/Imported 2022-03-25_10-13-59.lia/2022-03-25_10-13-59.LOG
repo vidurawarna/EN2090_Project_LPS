@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 2022-03-25_10-13-59.LibPkg
+
+Section : C:\Users\User\Downloads\Documents\ACA\Sem 3\EN2090 Laboratory Practice II\PCB\Libraries\New folder (4)\AltiumV14\2022-03-25_10-13-59.lia
+    Section : PCB Library - 2022-03-25_10-13-59.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 363
+            Warning - 1 : Skipping Token poly On Line 379
+            Warning - 1 : Skipping Token poly On Line 387
+            Warning - 1 : Skipping Token RES On Line 557
+            Warning - 1 : Skipping Token RESV On Line 585
+            Warning - 1 : Skipping Token attachedSymbol On Line 625
+            Warning - 1 : Skipping Token attachedSymbol On Line 626
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 2022-03-25_10-13-59.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token patternDef On Line 319
+        EndSection
+
+        Section : Generating SCH Library - 2022-03-25_10-13-59.SchLib
+        EndSection
+    EndSection
+EndSection
