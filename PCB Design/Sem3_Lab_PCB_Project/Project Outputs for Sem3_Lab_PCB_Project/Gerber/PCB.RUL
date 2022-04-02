@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\User\Downloads\Documents\ACA\Sem 3\EN2090 Laboratory Practice II\Lab Project_Final_PCB\Sem3_Lab_PCB_Project\PCB.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
