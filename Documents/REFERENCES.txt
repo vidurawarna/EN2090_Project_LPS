@@ -1,0 +1,5 @@
+https://circuitlib.com/index.php/lessons/91-basic-linear-power-supply-circuits-design
+https://electronicspost.com/series-feedback-voltage-regulator/
+https://www.electronics-notes.com/articles/analogue_circuits/power-supply-electronics/current-limiter-circuit.php
+https://www.cuidevices.com/blog/how-to-select-a-heat-sink
+https://learnabout-electronics.org/Amplifiers/amplifiers51.php
