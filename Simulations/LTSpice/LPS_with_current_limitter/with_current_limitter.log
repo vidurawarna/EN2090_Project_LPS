@@ -2,20 +2,20 @@ Circuit: * C:\Users\Vidura\Documents\EN2090_Project_LPS\Simulations\LTSpice\LPS_
 
 .OP point found by inspection.
 
-Date: Sun May 01 10:26:11 2022
-Total elapsed time: 0.116 seconds.
+Date: Fri Jul 22 11:23:36 2022
+Total elapsed time: 0.106 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2679
-traniter = 2679
-tranpoints = 1168
-accept = 1147
+totiter = 2670
+traniter = 2670
+tranpoints = 1165
+accept = 1144
 rejected = 21
 matrix size = 26
 fillins = 30
 solver = Normal
-Matrix Compiler1:     238 opcodes  0.5/0.3/[0.2]
-Matrix Compiler2: 2.94 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler1:     238 opcodes  0.6/0.4/[0.2]
+Matrix Compiler2: 2.94 KB object code size  0.3/0.3/[0.1]
 
